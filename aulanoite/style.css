@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    width: 500px;
+    padding: 30px;
+    margin: 50px auto;
+    border: 2px white solid;
+    background-color: cyan;
+}
+.container h1{
+    text-align: center;
+}
+.container p{
+    font-size: 15pt;
+}
+.container span{
+    font-size: 15pt;
+    font-weight: 500;
+}
