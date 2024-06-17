@@ -11,7 +11,7 @@
     <h1>Primeira aula de PHP</h1>
     <p>Nome</p>
     <?php
-        $nome = "Yago";
+        $nome = "Carol";
         echo "<span style='color:black'> $nome </span>";
     ?>
     </div>
